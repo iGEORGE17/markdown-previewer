@@ -4,4 +4,4 @@
 - BOOTSTRAP
 - REACT
 
-DEMO - https://iGEORGE.github.io/markdown-previewer
+DEMO - https://iGEORGE.github.io/markdown-previewer/
